@@ -138,7 +138,7 @@ This lab runs at approximately **€15–25/month** with both VMs on B1s SKUs an
 
 ## Author
 
-**Yauheni Skrypnikau** — Cybersecurity Analyst  
+**Yauheni Skrypnikau** — Career-changer building blue-team / SOC skills  
 Focused on cloud security, SOC operations, and blue-team tooling.  
 *   **LinkedIn:** [linkedin.com/in/skrypnikau](https://www.linkedin.com/in/skrypnikau)
 *   **GitHub:** [github.com/skrypnikau](https://github.com/skrypnikau)
